@@ -1,0 +1,15 @@
+D:\Pekerjaan\MCC\Decoration\Decoration\bin\Debug\net6.0\Decoration.exe
+D:\Pekerjaan\MCC\Decoration\Decoration\bin\Debug\net6.0\Decoration.deps.json
+D:\Pekerjaan\MCC\Decoration\Decoration\bin\Debug\net6.0\Decoration.runtimeconfig.json
+D:\Pekerjaan\MCC\Decoration\Decoration\bin\Debug\net6.0\Decoration.dll
+D:\Pekerjaan\MCC\Decoration\Decoration\bin\Debug\net6.0\Decoration.pdb
+D:\Pekerjaan\MCC\Decoration\Decoration\obj\Debug\net6.0\Decoration.csproj.AssemblyReference.cache
+D:\Pekerjaan\MCC\Decoration\Decoration\obj\Debug\net6.0\Decoration.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pekerjaan\MCC\Decoration\Decoration\obj\Debug\net6.0\Decoration.AssemblyInfoInputs.cache
+D:\Pekerjaan\MCC\Decoration\Decoration\obj\Debug\net6.0\Decoration.AssemblyInfo.cs
+D:\Pekerjaan\MCC\Decoration\Decoration\obj\Debug\net6.0\Decoration.csproj.CoreCompileInputs.cache
+D:\Pekerjaan\MCC\Decoration\Decoration\obj\Debug\net6.0\Decoration.dll
+D:\Pekerjaan\MCC\Decoration\Decoration\obj\Debug\net6.0\refint\Decoration.dll
+D:\Pekerjaan\MCC\Decoration\Decoration\obj\Debug\net6.0\Decoration.pdb
+D:\Pekerjaan\MCC\Decoration\Decoration\obj\Debug\net6.0\Decoration.genruntimeconfig.cache
+D:\Pekerjaan\MCC\Decoration\Decoration\obj\Debug\net6.0\ref\Decoration.dll
